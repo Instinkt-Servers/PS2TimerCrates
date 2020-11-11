@@ -8,6 +8,7 @@ With this Scripts you can make Crates, which will open after a special amount of
 
 <br>
 Installation:
-</br> Just Darg´n Drop the "ps2-timercrates" directory inside your "Addons" folder.
+</br> Just Darg´n Drop the "ps2-timercrates" directory inside your "Addons" folder.<br>
+Don´t forget to upload the Materials!
 <br>
 You´re good to go!
